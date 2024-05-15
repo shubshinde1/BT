@@ -1,0 +1,16 @@
+/* :root {
+	--primary-color: #116a70;
+	--primary-color-rgb: 17, 106, 112;
+	--secondary-color: #21a7b2;
+	--secondary-color-rgb: 33, 167, 178;
+	--tertiary-color: #0e464a;
+	--tertiary-color-rgb: 14, 70, 74;
+} */
+:root {
+	--primary-color: #116a70;
+	--primary-color-rgb: 17, 106, 112;
+	--secondary-color: #21a7b2;
+	--secondary-color-rgb: 33, 167, 178;
+	--tertiary-color: #25bcc7;
+	--tertiary-color-rgb: 14, 70, 74;
+}
